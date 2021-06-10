@@ -10,7 +10,7 @@ namespace Gambler
         {
             Console.WriteLine("Welcome to gambling problem ");
             GamblerGame game = new GamblerGame();
-            game.GameBet();
+            
         }
     }
 }
